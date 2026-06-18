@@ -1,0 +1,10 @@
+{
+  "name": "fangbuch-einladung",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Einladungs-Bridge-Seite fuer FangBuch (Issue #194): leitet ?token= auf fangbuch://invite/{token} weiter.",
+  "scripts": {
+    "test": "node --test"
+  }
+}
